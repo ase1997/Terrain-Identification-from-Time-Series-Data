@@ -2,4 +2,5 @@
 NCSU ECE 542 (Neural Networks and Deep Learning) Competition Project
   - Implement LSTM model to predict types of terrain based on timer-series data collected from sensors in Pytorch
 
-dgdfsg
+
+Based on a NCSU's research # Environmental Conext Prediction for Lower Limb Prostheses
