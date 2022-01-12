@@ -23,7 +23,7 @@ NCSU ECE 542 (Neural Networks and Deep Learning) Competition Project
   - Anaconda on Windows 10 Education -> Jupyter Notebook
   
 ## About the Repo.
-  - This repository has a Jupyter notebook that contains the code for the entire project and decision matrices for training/validation.  The general approach is to preprocess data, feed preprocessed data into an LSTM model (3 layers), and postprocess the prediction data.  LSTM is chosen due to its ability to work well with time-series data.
+  - This repository has a Jupyter notebook that contains the code for the entire project and decision matrices for training/validation.  The general approach is to preprocess data, feed preprocessed data into an LSTM model (3 layers), and postprocess the prediction data.  LSTM is chosen due to its ability to work well with time-series data
 
 ## Authors
 Larry Turner. Duy Nguyen. Khoa Do. All Rights Reserved.
