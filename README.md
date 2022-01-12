@@ -34,3 +34,5 @@ Larry Turner. Duy Nguyen. Khoa Do. All Rights Reserved.
 ## Additional Notes
   - This project is based on a NCSU's research **Environmental Conext Prediction for Lower Limb Prostheses** [1]
   - Details about the research including the dataset can be found in [1]
+  - Potential employers that are interested in knowing this repo. better in details or having any questions can be discused and answered in person
+  - Big thanks and credits to **Larry** and **Duy** for the help on this notebook's version
